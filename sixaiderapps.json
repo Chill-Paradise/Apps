@@ -6,7 +6,8 @@
 	"Tweaked": [{
 		"name": "Geometry Dash",
 		"version": "2.113",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
+        "icon": "https://raw.githubusercontent.com/Chill-Paradise/Apps/main/Geometry%20Dash/icon.png",
+		"down": "https://github.com/Chill-Paradise/Apps/raw/main/Geometry%20Dash/game.ipa",
 		"category": "Giochi",
 		"description": "Salta e vola attraverso il pericolo in questo platform d'azione basato sul ritmo!",
 		"bundleID": "com.robtopx.geometryjump",
