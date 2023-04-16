@@ -1,0 +1,18 @@
+{
+	"META": {
+		"repoName": "Sixaider Apps",
+		"repoIcon": "https://raw.githubusercontent.com/Chill-Paradise/Apps/main/icon.png"
+	},
+	"Tweaked": [{
+		"name": "Geometry Dash",
+		"version": "2.113",
+		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
+		"category": "Giochi",
+		"description": "Salta e vola attraverso il pericolo in questo platform d'azione basato sul ritmo!",
+		"bundleID": "com.robtopx.geometryjump",
+		"appstore": "com.robtopx.geometryjump",
+		"contact": {
+			"web": "https://www.robtopgames.com/"
+		}
+	}]
+}
